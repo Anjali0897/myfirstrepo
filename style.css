@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Styled Page</title>
+    <!-- Link to your style.css file below -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Website</h1>
+        
+        <div class="grid-layout">
+            <div class="card">
+                <h2>Card Title 1</h2>
+                <p>This is a reusable card element styled with CSS.</p>
+                <button class="btn">Read More</button>
+            </div>
+            <div class="card">
+                <h2>Card Title 2</h2>
+                <p>The grid layout shifts automatically on mobile viewports.</p>
+                <button class="btn">Read More</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
